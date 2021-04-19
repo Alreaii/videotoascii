@@ -1,2 +1,8 @@
 # videotoascii
-rendering mp4 videos in ascii format
+
+|| Video to Ascii ||
+
+
+Python program that renders video files in ascii, fun project
+
+have fun
